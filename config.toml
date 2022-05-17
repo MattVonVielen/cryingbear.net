@@ -1,4 +1,4 @@
 baseURL = 'https://cryingbear.net/'
 languageCode = 'en-us'
 title = 'Crying Bear Studio'
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
