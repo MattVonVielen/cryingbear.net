@@ -2,6 +2,7 @@ baseURL: 'https://cryingbear.net/'
 languageCode: en-us
 title: Crying Bear Studio
 sectionPagesMenu: main
+buildExpired: true
 
 module:
   imports:
