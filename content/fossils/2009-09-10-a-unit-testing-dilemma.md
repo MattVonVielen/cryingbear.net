@@ -16,7 +16,7 @@ it another way, here's "Gandalf's First Law of Unit Testing":
 
 > **You shall not pass!**
 >
-> Gandalf the Grey, in his first (and last) TDD seminar
+> — <cite>Gandalf the Grey, in his first (and last) TDD seminar</cite>
 
   
   

@@ -49,7 +49,7 @@ included the most relevant snippet here:
 > that you got what you expected - and that leads to emergence of design
 > in the small.
 >
-> Peter Provost
+> — <cite>Peter Provost</cite>
 
 Peter later mentions that TDD has "this amazing side-effect" of
 producing "really high unit test coverage." Until then, I'd never
@@ -60,7 +60,7 @@ sacrilegious - but this was a major "Matrix Moment" for me.
 > impractical. Only try to realize the truth - the tests are a
 > side-effect.
 >
-> That annoying kid from The Matrix (slightly paraphrased)
+> — <cite>That annoying kid from The Matrix (slightly paraphrased)</cite>
 
 Anyway, Peter's explanation is some pretty good stuff. But it's still
 lacking a certain *je ne sais quoi*. Wouldn't it be really nice if we
@@ -76,7 +76,7 @@ annoyingly large to try to drive the point home:
 > The single most important effect of practicing TDD is that it forces
 > you as the developer to be the first consumer of your own API.
 >
-> Brian Button
+> — <cite>Brian Button</cite>
 
 It's my firm belief that nearly any developer with more than a little
 experience knows an annoying or unfortunate API when he/she uses it. How

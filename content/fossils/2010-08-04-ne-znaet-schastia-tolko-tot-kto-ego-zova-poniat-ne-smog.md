@@ -17,8 +17,8 @@ I want to learn Russian...
 > For what life has left for me  
 > Yearning Yearning, for what's left of loving  
 > Собой остаться дольше... [^2]
-
-*Inner Universe* by Origa and Shanti Snyder  
+>
+> — <cite>Inner Universe by Origa and Shanti Snyder</cite>
   
 English translations:  
 Headline: "Only one who doesn't know happiness couldn't understand its
