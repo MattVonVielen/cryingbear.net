@@ -13,7 +13,7 @@ keywords: []
 # If true, the blog post will not be included in static build
 draft: false
 # Categorize your post with tags
-tags: []
+tags: ["writing-prompt","song-lyrics"]
 # Uses math typesetting
 math: false
 # Includes a table of contents on screens >1024px
