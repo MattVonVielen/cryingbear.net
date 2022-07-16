@@ -46,13 +46,15 @@ to feel like if she didn't know any better she'd say she was pregnant again. Aga
 were run, and again she was congratulated at defying the odds. It was time to get ready for another baby!
 
 By this time though, she'd had much more life experience - mostly of the masculine variety. Married with two boys, then
-forced to move home to take care of her ailing father in the mid '70s - she'd become fed up with living in what was still
-quite definitely a "man's world" while perpetually surrounded by boys of all ages. When she discovered she was pregnant
-again she knew it was a little girl. Nobody needed to run any tests. She _needed_ a little
-girl to bring just a little balance to her life. She even had the perfect name, plucked from the real-world fairy-tale
-princess story that was such big news when she was a teenager in the early '50s.
+forced to move home to take care of her ailing father in the mid '70s, she'd become fed up with living in what was still
+quite definitely a "man's world" while perpetually surrounded by boys (of all ages). When she discovered she was pregnant
+again she just knew it was a little girl. Nobody needed to run any tests. She _needed_ a little girl to bring a bit of
+balance to her life. 
 
-The baby growing inside her was Elizabeth.
+She even had the perfect name ready. As a teenage girl back in the early '50s, my mom was enamored with a real-world
+fairy-tale princess story that made big news across the globe. The baby growing inside her was called Elizabeth.
+(Later in her life she would show me memorabilia from that time which she had held on to for so many years, including
+cards with photos from the coronation of the young Queen.)
 
 In early June of '76, she went into labor, and it wasn't easy. It dragged on for a very long time. (Yes folks, I was even
 late to my own birth.) Eventually hospital staff decided on a Caesarean procedure and Mom was given some pretty serious
@@ -60,7 +62,7 @@ pain relief. The way she described it to me, I think the phrase "recreationally 
 
 Fast-forward: it's mid-procedure, the baby's safely extracted and the cord is cut. After a once-over to ensure that there
 were no emergency issues, a nurse presents Mom with her new child. And Mom, high as a kite (and maybe twice as
-desperate) cuddles the baby and coos "Elizabeth..."
+desperate) cuddles the baby and coos "Hi Elizabeth..."
 
 Around which time Dad gently reaches down and touches her, admonshing her. "No, Joanne. It's a boy."
 
